@@ -29,6 +29,7 @@ void mulMat(int mat1[][C1], int mat2[][C2])
 
 		cout << endl;
 	}
+	cout << "\n PES2UG20CS576 \n";
 }
 
 // Driver code
