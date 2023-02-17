@@ -10,7 +10,7 @@ pipeline {
 
         sh 'g++ working.cpp' 
 
-        build job: "PES2UG20CS531-1", wait: true 
+        build job: "PES2UG20CS553-1", wait: true 
 
       } 
 
